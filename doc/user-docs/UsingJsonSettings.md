@@ -88,7 +88,7 @@ This will allow you to simplify the above snippet as follows:
 }
 ```
 
-A list of default key bindings is available [here](https://github.com/microsoft/terminal/blob/master/src/cascadia/TerminalApp/defaults.json#L204).
+A list of default key bindings is available [here](https://github.com/microsoft/terminal/blob/master/src/cascadia/TerminalApp/defaults.json#L274).
 
 ### Unbinding keys
 
